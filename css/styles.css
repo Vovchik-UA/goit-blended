@@ -111,8 +111,11 @@ header .container {
   justify-content: space-between;
 }
 
-.hero-content .hero-tile {
+.hero-content {
   padding-top: 112px;
+}
+
+.hero-content .hero-tile {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.5;
